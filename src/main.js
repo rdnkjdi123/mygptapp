@@ -1,3 +1,5 @@
+import './style.css';
+
 const areas = [
   { name: 'Shoulders', icon: 'shoulders', accent: 'sage' },
   { name: 'Chest', icon: 'chest', accent: 'blue' },
